@@ -6,5 +6,5 @@ autoexec path:
 `````````````
 `````````````
 launch options: 
--high -novid -noaafonts -noforcemaccel -noforcemspd -noforcemparms -console +hideconsole +exec autoexec.cfg
+-high -novid -console +hideconsole +exec autoexec.cfg
 `````````````
