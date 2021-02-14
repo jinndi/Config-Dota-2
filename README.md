@@ -1,4 +1,4 @@
-Config Dota2 by Jinn
+Config Dota2 by Jinndi
 =============
 `````````````
 autoexec path:
